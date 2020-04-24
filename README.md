@@ -21,5 +21,6 @@ The App respects and protects the privacy of all users who use the service. In o
 
 2. Connecting to the network only requests network data.
 
-All Rights Reserve to Radiance Instruments Ltd. Copy right @2010 - 2020 
+All Rights Reserve to Radiance Instruments Ltd.
 
+Copyright © 2010-2020.Radiance Instruments Ltd
